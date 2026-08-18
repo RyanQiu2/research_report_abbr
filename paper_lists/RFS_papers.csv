@@ -1,0 +1,69 @@
+期刊,年份,论文名称,与HFT相关点,与HFT&LOB相关程度（1-5分，5代表重要）
+The Review of Financial Studies,2017,Need for Speed? Exchange Latency and Liquidity,Low-Latency; Speed-Competition; Liquidity; Market-Quality,5
+The Review of Financial Studies,2017,"Bid-Ask Spreads, Trading Networks, and the Pricing of Securitizations",Bid-Ask-Spread; Trading-Networks; OTC; Securitization,3
+The Review of Financial Studies,2017,"A Simple Estimation of Bid-Ask Spreads from Daily Close, High, and Low Prices",Bid-Ask-Spread; Transaction-Cost-Measurement; Low-Frequency-Data,3
+The Review of Financial Studies,2017,Price Impact or Trading Volume: Why Is the Amihud (2002) Measure Priced?,Price-Impact; Trading-Volume; Liquidity-Measurement,3
+The Review of Financial Studies,2017,An Asset Pricing Approach to Liquidity Effects in Corporate Bond Markets,Corporate-Bond-Liquidity; Asset-Pricing; Liquidity-Premium,1
+The Review of Financial Studies,2017,The Causal Effect of Stop-Loss and Take-Gain Orders on the Disposition Effect,Order-Types; Stop-Loss; Take-Gain; Investor-Behavior,2
+The Review of Financial Studies,2018,Why Trading Speed Matters: A Tale of Queue Rationing under Price Controls,Trading-Speed; Queue-Priority; LOB; Price-Control,5
+The Review of Financial Studies,2018,Does Algorithmic Trading Reduce Information Acquisition?,Algorithmic-Trading; Information-Acquisition; Price-Efficiency,5
+The Review of Financial Studies,2018,The Competitive Landscape of High-Frequency Trading Firms,HFT; Competition; Market-Quality; Liquidity,5
+The Review of Financial Studies,2018,High-Frequency Measures of Informed Trading and Corporate Announcements,High-Frequency-Data; Informed-Trading; Corporate-Announcements; Order-Flow,4
+The Review of Financial Studies,2018,Rent Seeking by Low-Latency Traders: Evidence from Trading on Macroeconomic Announcements,Low-Latency-Trading; Speed-Advantage; Macroeconomic-News; Price-Discovery,5
+The Review of Financial Studies,2018,Illiquidity Premia in the Equity Options Market,Options-Liquidity; Illiquidity-Premium; Asset-Pricing,1
+The Review of Financial Studies,2018,Notes on Bonds: Illiquidity Feedback During the Financial Crisis,Bond-Liquidity; Liquidity-Feedback; Financial-Crisis,1
+The Review of Financial Studies,2018,Quantifying Liquidity and Default Risks of Corporate Bonds over the Business Cycle,Corporate-Bond-Liquidity; Default-Risk; Asset-Pricing,1
+The Review of Financial Studies,2019,The Cost of Immediacy for Corporate Bonds,Immediacy; Trading-Cost; Liquidity-Provision; Corporate-Bonds,3
+The Review of Financial Studies,2019,Trade-Time Measures of Liquidity,Trade-Time; Liquidity-Measurement; Price-Impact; High-Frequency-Data,4
+The Review of Financial Studies,2019,"Information, Trading, and Volatility: Evidence from Firm-Specific News",Informed-Trading; Public-News; Volatility; Price-Discovery,2
+The Review of Financial Studies,2019,High-Frequency Market Making to Large Institutional Trades,HFT; Market-Making; Institutional-Orders; Price-Impact; Liquidity-Provision,5
+The Review of Financial Studies,2019,Why Discrete Price Fragments U.S. Stock Exchanges and Disperses Their Fee Structures,Discrete-Pricing; Exchange-Fragmentation; Maker-Taker-Fees; Market-Design,4
+The Review of Financial Studies,2019,Blockchain-Based Settlement for Asset Trading,Blockchain; Settlement; Trading-Infrastructure; Market-Design,2
+The Review of Financial Studies,2019,Informed Trading by Advisor Banks: Evidence from Options Holdings,Informed-Trading; Options; Advisor-Banks,2
+The Review of Financial Studies,2019,Trading Regularity and Fund Performance,Institutional-Trading; Trading-Intensity; Fund-Performance,1
+The Review of Financial Studies,2020,Liquidity Provision Contracts and Market Quality: Evidence from the New York Stock Exchange,Liquidity-Provision; Market-Making; NYSE; Market-Quality,4
+The Review of Financial Studies,2020,Over-the-Counter versus Limit-Order Markets: The Role of Traders’ Expertise,LOB; Limit-Order-Market; OTC; Trader-Expertise; Market-Design,5
+The Review of Financial Studies,2020,"Back-Running: Seeking and Hiding Fundamental Information in Order Flows",Order-Flow; Back-Running; Information-Acquisition; Strategic-Trading,5
+The Review of Financial Studies,2020,"Order Cancellations, Fees, and Execution Quality in U.S. Equity Options",Order-Cancellation; Fees; Execution-Quality; Options-LOB,5
+The Review of Financial Studies,2020,Options Trading Costs Are Lower than You Think,Options; Trading-Cost; Quotes; Execution-Measurement,4
+The Review of Financial Studies,2020,Dash for Cash: Monthly Market Impact of Institutional Liquidity Needs,Institutional-Trading; Liquidity-Demand; Market-Impact,2
+The Review of Financial Studies,2020,Institutional Trading around Corporate News: Evidence from Textual Analysis,Institutional-Trading; Corporate-News; Information; Price-Discovery,2
+The Review of Financial Studies,2020,Equity Price Discovery with Informed Private Debt,Price-Discovery; Private-Debt; Informed-Trading,2
+The Review of Financial Studies,2021,Microstructure in the Machine Age,Market-Microstructure; Machine-Learning; Order-Flow; Trade-Classification; High-Frequency-Data,5
+The Review of Financial Studies,2021,Institutional Order Handling and Broker-Affiliated Trading Venues,Order-Routing; Institutional-Orders; Broker-ATS; Execution-Quality,5
+The Review of Financial Studies,2021,Corporate Bond Liquidity during the COVID-19 Crisis,Corporate-Bonds; Dealer-Capacity; Trading-Cost; Crisis-Liquidity,3
+The Review of Financial Studies,2021,Innovation and Informed Trading: Evidence from Industry ETFs,ETF; Informed-Trading; Information-Production; Price-Discovery,3
+The Review of Financial Studies,2021,The Whack-a-Mole Game: Tobin Taxes and Trading Frenzy,Transaction-Tax; Trading-Migration; Speculative-Trading; Market-Design,3
+The Review of Financial Studies,2021,Mutual Fund Trading Style and Bond Market Fragility,Institutional-Trading; Bond-Liquidity; Market-Fragility,2
+The Review of Financial Studies,2021,Does Option Trading Have a Pervasive Impact on Underlying Stock Prices?,Options-Order-Demand; Cross-Market-Impact; Stock-Prices,2
+The Review of Financial Studies,2021,The Chinese Warrants Bubble: Evidence from Brokerage Account Records,Retail-Trading; Account-Level-Data; Warrants; Speculative-Demand,1
+The Review of Financial Studies,2022,Dark Pool Trading and Information Acquisition,Dark-Pools; Information-Acquisition; Venue-Choice; Market-Quality,5
+The Review of Financial Studies,2022,"Exchange Competition, Entry, and Welfare",Exchange-Competition; Market-Entry; Liquidity; Market-Design,4
+The Review of Financial Studies,2022,Order Flows and Financial Investor Impacts in Commodity Futures Markets,Order-Flow; Commodity-Futures; Price-Impact; Financial-Traders,5
+The Review of Financial Studies,2022,Foreign Exchange Volume,FX-Market; Trading-Volume; Information-Content; Predictability,3
+The Review of Financial Studies,2022,Commonality in Credit Spread Changes: Dealer Inventory and Intermediary Distress,Dealer-Inventory; Intermediary-Constraints; Credit-Spreads; Liquidity,3
+The Review of Financial Studies,2022,Dynamics of Research and Strategic Trading,Information-Research; Strategic-Trading; Dynamic-Market,2
+The Review of Financial Studies,2022,A Theory of Liquidity Spillover between Bond and CDS Markets,Liquidity-Spillover; Bond-Market; CDS; Cross-Market-Trading,1
+The Review of Financial Studies,2022,The Real Effects of Secondary Market Trading Structure: Evidence from the Mortgage Market,Trading-Structure; TBA-Market; Liquidity; MBS,2
+The Review of Financial Studies,2022,Extrapolative Bubbles and Trading Volume,Trading-Volume; Investor-Expectations; Bubbles,1
+The Review of Financial Studies,2023,From Market Making to Matchmaking: Does Bank Regulation Harm Market Liquidity?,Market-Making; Dealer-Intermediation; Matchmaking; Bond-Liquidity,4
+The Review of Financial Studies,2023,When Do Low-Frequency Measures Really Measure Effective Spreads? Evidence from Equity and Foreign Exchange Markets,Effective-Spread; Transaction-Cost-Measurement; Equity; FX,3
+The Review of Financial Studies,2023,The Effect of Stock Liquidity on the Firm’s Investment and Production,Stock-Liquidity; Real-Effects; Corporate-Investment,1
+The Review of Financial Studies,2023,Exchange-Traded Funds and Real Investment,ETF-Trading; Price-Informativeness; Real-Investment,1
+The Review of Financial Studies,2023,Illiquidity and Higher Cumulants,Strategic-Trading; Illiquidity; Return-Distribution; Market-Microstructure-Theory,1
+The Review of Financial Studies,2024,Size Discount and Size Penalty: Trading Costs in Bond Markets,Trade-Size; Trading-Cost; Price-Impact; Bond-Market,3
+The Review of Financial Studies,2024,Institutional Brokerage Networks: Facilitating Liquidity Provision,Brokerage-Networks; Liquidity-Provision; Institutional-Trades; Price-Impact,3
+The Review of Financial Studies,2024,The Value of ETF Liquidity,ETF-Liquidity; Trading-Cost; Market-Design,3
+The Review of Financial Studies,2025,Dynamic Market Making with Asymmetric Information and Market Power,Dynamic-Market-Making; Asymmetric-Information; Market-Power; Liquidity,4
+The Review of Financial Studies,2025,The Market Inside the Market: Odd-Lot Quotes,Odd-Lot-Quotes; NBBO; LOB; Market-Quality; Price-Discovery,5
+The Review of Financial Studies,2025,Fractional Trading,Fractional-Shares; Retail-Trading; Order-Execution; Market-Design,4
+The Review of Financial Studies,2025,Liquidity Provision on Blockchain-Based Decentralized Exchanges,DEX; AMM; Liquidity-Provision; Market-Making; Blockchain,4
+The Review of Financial Studies,2025,Anticipatory Trading Against Distressed Mega Hedge Funds,Anticipatory-Trading; Institutional-Orders; Price-Impact; Predatory-Trading,3
+The Review of Financial Studies,2025,Does Liquidity Management Induce Fragility in Treasury Prices? Evidence from Bond Mutual Funds,Fund-Trading; Treasury-Liquidity; Price-Fragility,2
+The Review of Financial Studies,2025,Steering a Ship in Illiquid Waters: Active Management of Passive Funds,Passive-Funds; Liquidity-Management; Trading; Price-Impact,2
+The Review of Financial Studies,2026,Option Auctions,Auctions; Options; Order-Execution; Market-Design; Price-Discovery,5
+The Review of Financial Studies,2026,Payment for Order Flow and Option Internalization,PFOF; Order-Internalization; Wholesalers; Execution-Quality; Options,5
+The Review of Financial Studies,2026,Price Discovery on Decentralized Exchanges,DEX; AMM; Informed-Trading; Price-Discovery; Blockchain,4
+The Review of Financial Studies,2026,Algorithmic Pricing and Liquidity in Securities Markets,Algorithmic-Trading; Algorithmic-Pricing; Market-Making; Learning; Liquidity,5
+The Review of Financial Studies,2026,Who Clears the Market When Passive Investors Trade?,Passive-Investing; Liquidity-Provision; Counterparties; Price-Impact,3
+The Review of Financial Studies,2026,The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market,Primary-Dealers; Dealer-Constraints; Treasury-Market; Liquidity,3

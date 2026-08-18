@@ -1,0 +1,31 @@
+期刊,年份,论文名称,与HFT相关点,与HFT&LOB相关程度（1-5分，5代表重要）
+The Journal of Finance,2017,The Flash Crash: High-Frequency Trading in an Electronic Market,HFT; Flash-Crash; Market-Microstructure; Inventory; Price-Impact,5
+The Journal of Finance,2017,Liquidity in a Market for Unique Assets: Specified Pool and To-Be-Announced Trading in the Mortgage-Backed Securities Market,Market-Design; Liquidity; Trading-Mechanism; MBS,1
+The Journal of Finance,2017,Trader Leverage and Liquidity,Liquidity-Supply; Leverage; Trader-Constraints,2
+The Journal of Finance,2017,"Financial Transaction Taxes, Market Composition, and Liquidity",Transaction-Tax; Market-Composition; Volume; Liquidity,2
+The Journal of Finance,2018,Capital Commitment and Illiquidity in Corporate Bonds,Dealer-Capital; Inventory; Liquidity-Supply; Corporate-Bonds,2
+The Journal of Finance,2019,High-Frequency Trading around Large Institutional Orders,HFT; Institutional-Orders; Order-Detection; Execution-Cost; Price-Impact,5
+The Journal of Finance,2019,Price Discovery without Trading: Evidence from Limit Orders,LOB; Limit-Orders; Price-Discovery; Order-Flow,5
+The Journal of Finance,2019,Brokers and Order Flow Leakage: Evidence from Fire Sales,Order-Flow; Information-Leakage; Brokers; Price-Impact,4
+The Journal of Finance,2019,Dealer Networks,Dealer-Networks; Liquidity; Transaction-Cost; OTC,1
+The Journal of Finance,2020,High-Frequency Trading and Market Performance,HFT; Quote-Competition; Information-Speed; Liquidity; Market-Quality,5
+The Journal of Finance,2020,Market Structure and Transaction Costs of Index CDSs,Market-Microstructure; Execution-Cost; Trade-Initiation; Price-Impact; CDS,3
+The Journal of Finance,2020,"Every Cloud Has a Silver Lining: Fast Trading, Microwave Connectivity, and Trading Costs",HFT; Low-Latency; Microwave-Network; Adverse-Selection; Trading-Cost,5
+The Journal of Finance,2020,Relationship Trading in Over-the-Counter Markets,Relationship-Trading; Dealer-Market; Liquidity; OTC,1
+The Journal of Finance,2021,Anonymous Trading in Equities,Anonymity; Market-Design; Bid-Ask-Spread; Volume; Market-Quality,3
+The Journal of Finance,2021,Tracking Retail Investor Activity,Retail-Order-Flow; Order-Imbalance; Trade-Classification; Return-Predictability,4
+The Journal of Finance,2021,Liquidity Supply in the Corporate Bond Market,Dealer-Inventory; Liquidity-Supply; Corporate-Bonds,2
+The Journal of Finance,2021,Trading Costs and Informational Efficiency,Trading-Cost; Information-Production; Price-Efficiency; Market-Microstructure,2
+The Journal of Finance,2021,"Inventory Management, Dealers’ Connections, and Prices in Over-the-Counter Markets",Dealer-Inventory; Dealer-Networks; Pricing; OTC,2
+The Journal of Finance,2022,"Clients’ Connections: Measuring the Role of Private Information in Decentralized Markets",Private-Information; Client-Dealer-Network; Decentralized-Market,1
+The Journal of Finance,2022,Liquidity Fluctuations in Over-the-Counter Markets,Liquidity; Adverse-Selection; OTC; Market-Composition,1
+The Journal of Finance,2022,Attention-Induced Trading and Returns: Evidence from Robinhood Users,Retail-Order-Flow; Buying-Pressure; Attention; Price-Impact,3
+The Journal of Finance,2022,Asset Pricing with Cohort-Based Trading in MBS Markets,Selling-Pressure; Price-Formation; Trading-Mechanism; MBS,1
+The Journal of Finance,2023,"Liquidity, Volume, and Order Imbalance Volatility",Order-Imbalance; High-Frequency-Data; Market-Making; Inventory-Risk; Spread; Liquidity,5
+The Journal of Finance,2023,Retail Trading in Options and the Rise of the Big Three Wholesalers,Retail-Order-Flow; Wholesalers; Market-Concentration; PFOF; Execution-Quality,4
+The Journal of Finance,2023,Do Municipal Bond Dealers Give Their Customers “Fair and Reasonable” Pricing?,Dealer-Pricing; Transaction-Cost; Quote-Clustering; Municipal-Bonds,1
+The Journal of Finance,2024,A (Sub)Penny for Your Thoughts: Tracking Retail Investor Activity in TAQ,Retail-Order-Flow; Order-Imbalance; TAQ; Trade-Classification; Subpenny-Pricing,4
+The Journal of Finance,2025,Decentralized Exchange: The Uniswap Automated Market Maker,AMM; LOB-Comparison; Liquidity-Provision; Decentralized-Exchange; Market-Design,4
+The Journal of Finance,2025,Does Floor Trading Matter?,Market-Structure; Floor-Trading; Bid-Ask-Spread; Pricing-Error; Market-Quality,3
+The Journal of Finance,2025,Would Order-by-Order Auctions Be Competitive?,Order-by-Order-Auction; Retail-Order-Routing; Wholesalers; Competition; Market-Design,5
+The Journal of Finance,2025,The “Actual Retail Price” of Equity Trades,Retail-Execution; Execution-Quality; Market-Orders; Wholesalers; PFOF,4

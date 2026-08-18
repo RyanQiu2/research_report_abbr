@@ -1,0 +1,58 @@
+期刊,年份,论文名称,与HFT相关点,与HFT&LOB相关程度（1-5分，5代表重要）
+Journal of Financial Economics,2017,High frequency trading and the 2008 short-sale ban,HFT; Short-Sale-Ban; Liquidity; Price-Discovery; Market-Quality,5
+Journal of Financial Economics,2017,Shades of darkness: A pecking order of trading venues,Dark-Pools; Trading-Venues; Order-Flow; Market-Fragmentation; LOB,5
+Journal of Financial Economics,2017,Stock liquidity and default risk,Stock-Liquidity; Default-Risk; Asset-Pricing,1
+Journal of Financial Economics,2017,Informed trading and price discovery before corporate events,Informed-Trading; Price-Discovery; Corporate-Events; Order-Flow,3
+Journal of Financial Economics,2017,Early peek advantage? Efficient price discovery with tiered information disclosure,Information-Disclosure; Price-Discovery; Trading-Advantage,3
+Journal of Financial Economics,2017,Belief-free price formation,Price-Formation; Strategic-Trading; Market-Microstructure-Theory,2
+Journal of Financial Economics,2017,How effective are trading pauses?,Trading-Pauses; Price-Dynamics; Market-Design; Market-Quality,3
+Journal of Financial Economics,2018,High frequency trading and extreme price movements,HFT; Extreme-Price-Movements; Liquidity; Market-Stability,5
+Journal of Financial Economics,2018,High frequency trading and comovement in financial markets,HFT; Comovement; Cross-Asset-Trading; Market-Quality,5
+Journal of Financial Economics,2018,Market intraday momentum,Intraday-Trading; Return-Predictability; Order-Flow,2
+Journal of Financial Economics,2018,The Volcker Rule and corporate bond market making in times of stress,Market-Making; Dealer-Inventory; Corporate-Bonds; Liquidity,3
+Journal of Financial Economics,2018,Regulating dark trading: Order flow segmentation and market quality,Dark-Trading; Order-Flow-Segmentation; Market-Quality; Trading-Venues,5
+Journal of Financial Economics,2018,Data abundance and asset price informativeness,Information-Production; Price-Informativeness; Market-Microstructure,2
+Journal of Financial Economics,2018,Institutional herding and its price impact: Evidence from the corporate bond market,Institutional-Trading; Herding; Price-Impact; Corporate-Bonds,2
+Journal of Financial Economics,2018,Information and trading targets in a dynamic market equilibrium,Information; Strategic-Trading; Dynamic-Equilibrium,2
+Journal of Financial Economics,2019,Transparency and dealer networks: Evidence from post-trade reporting in the MBS market,Post-Trade-Transparency; Dealer-Networks; Liquidity; MBS,2
+Journal of Financial Economics,2019,"Inverted fee structures, tick size, and market quality",Tick-Size; Inverted-Fees; Maker-Taker; Market-Quality,4
+Journal of Financial Economics,2019,The effects of uncertainty on market liquidity: Evidence from Hurricane Sandy,Market-Liquidity; Uncertainty; Natural-Experiment,2
+Journal of Financial Economics,2019,Providing liquidity in an illiquid market: Dealer behavior in US corporate bonds,Liquidity-Provision; Dealer-Behavior; Inventory; Corporate-Bonds,3
+Journal of Financial Economics,2019,The term structure of liquidity provision,Liquidity-Provision; Trading-Horizon; Institutional-Trading,3
+Journal of Financial Economics,2019,"Tick size, liquidity for small and large orders, and price informativeness: Evidence from the Tick Size Pilot Program",Tick-Size; Order-Size; Liquidity; Price-Informativeness,4
+Journal of Financial Economics,2020,What you see is not what you get: The costs of trading market anomalies,Trading-Cost; Execution-Cost; Market-Anomalies,2
+Journal of Financial Economics,2020,Flying under the radar: The effects of short-sale disclosure rules on investor behavior and stock prices,Short-Selling; Disclosure; Trading-Behavior; Price-Impact,2
+Journal of Financial Economics,2020,The difference a day makes: Timely disclosure and trading efficiency in the muni market,Post-Trade-Disclosure; Trading-Efficiency; Municipal-Bonds,2
+Journal of Financial Economics,2020,Slow-moving capital and execution costs: Evidence from a major trading glitch,Execution-Cost; Trading-Glitch; Slow-Moving-Capital; Liquidity,4
+Journal of Financial Economics,2020,Strategic trading and unobservable information acquisition,Strategic-Trading; Information-Acquisition; Market-Microstructure-Theory,2
+Journal of Financial Economics,2020,"Dealers' insurance, market structure, and liquidity",Dealer-Market; Inventory; Market-Structure; Liquidity,2
+Journal of Financial Economics,2020,The price effects of liquidity shocks: A study of the SEC's tick size experiment,Tick-Size; Liquidity-Shock; Price-Impact; Market-Design,3
+Journal of Financial Economics,2020,Measuring institutional trading costs and the implications for finance research: The case of tick size reductions,Institutional-Trading; Trading-Cost; Tick-Size; Execution,4
+Journal of Financial Economics,2020,Competition among liquidity providers with access to high-frequency trading technology,HFT; Liquidity-Provision; Competition; Market-Making; Technology,5
+Journal of Financial Economics,2021,Pervasive underreaction: Evidence from high-frequency data,High-Frequency-Data; Intraday-Prices; Underreaction; Price-Discovery,3
+Journal of Financial Economics,2021,Bias in the effective bid-ask spread,Bid-Ask-Spread; Transaction-Cost-Measurement; Market-Microstructure,3
+Journal of Financial Economics,2021,"Who provides liquidity, and when?",Liquidity-Provision; Market-Making; Trader-Type; Timing,4
+Journal of Financial Economics,2021,Hedging demand and market intraday momentum,Intraday-Trading; Hedging-Demand; Return-Predictability,2
+Journal of Financial Economics,2021,The impact of arbitrage on market liquidity,Arbitrage; Market-Liquidity; Price-Efficiency,3
+Journal of Financial Economics,2021,Informed trading in government bond markets,Informed-Trading; Government-Bonds; Price-Discovery; Order-Flow,3
+Journal of Financial Economics,2021,Price revelation from insider trading: Evidence from hacked earnings news,Insider-Trading; Price-Discovery; Information-Leakage,2
+Journal of Financial Economics,2021,Short selling efficiency,Short-Selling; Trading-Efficiency; Price-Discovery,2
+Journal of Financial Economics,2022,Retail trader sophistication and stock market quality: Evidence from brokerage outages,Retail-Trading; Brokerage-Outages; Market-Quality; Liquidity,3
+Journal of Financial Economics,2022,Price-setting in the foreign exchange swap market: Evidence from order flow,Order-Flow; Price-Setting; FX-Swaps; Dealer-Market,5
+Journal of Financial Economics,2022,Liquidity in the global currency market,FX-Market; Liquidity; Dealer-Market,2
+Journal of Financial Economics,2022,Refusing the best price?,Best-Execution; Order-Routing; Trading-Venues; Market-Fragmentation,4
+Journal of Financial Economics,2023,Heterogeneous liquidity providers and night-minus-day return predictability,Liquidity-Provision; Trader-Heterogeneity; Intraday-Trading; Return-Predictability,3
+Journal of Financial Economics,2023,Market power in wholesale funding: A structural perspective from the triparty repo market,Market-Power; Dealer-Market; Repo; Liquidity,2
+Journal of Financial Economics,2023,The limits of multi-dealer platforms,Multi-Dealer-Platforms; Dealer-Competition; Trading-Venues; Liquidity,3
+Journal of Financial Economics,2024,Siphoned apart: A portfolio perspective on order flow segmentation,Order-Flow-Segmentation; Portfolio-Trading; Trading-Venues; Market-Quality,5
+Journal of Financial Economics,2024,High-frequency trading in the stock market and the costs of options market making,HFT; Cross-Market-Trading; Options-Market-Making; Trading-Cost,5
+Journal of Financial Economics,2024,Block trade contracting,Block-Trades; Execution; Price-Impact; Contracting,3
+Journal of Financial Economics,2024,"Efficient estimation of bid–ask spreads from open, high, low, and close prices",Bid-Ask-Spread; Transaction-Cost-Measurement; OHLC-Data,3
+Journal of Financial Economics,2024,Comparing factor models with price-impact costs,Price-Impact; Trading-Cost; Factor-Models,2
+Journal of Financial Economics,2025,Warp speed price moves: Jumps after earnings announcements,High-Frequency-Data; Price-Jumps; Earnings-Announcements; Price-Discovery,3
+Journal of Financial Economics,2025,Constrained liquidity provision in currency markets,Liquidity-Provision; Dealer-Constraints; FX-Market; Market-Making,3
+Journal of Financial Economics,2025,The retail habitat,Retail-Order-Flow; Market-Segmentation; Price-Impact,3
+Journal of Financial Economics,2025,When do short sellers trade? Evidence from intraday data and implications for informed trading models,Short-Selling; Intraday-Trading; Informed-Trading; Order-Timing,3
+Journal of Financial Economics,2025,Stealthy shorts: Informed liquidity supply,Short-Selling; Informed-Trading; Liquidity-Supply; Limit-Orders,4
+Journal of Financial Economics,2025,Differential access to dark markets and execution outcomes,Dark-Markets; Venue-Access; Order-Execution; Execution-Quality,5
+Journal of Financial Economics,2025,The retail execution quality landscape,Retail-Orders; Execution-Quality; Wholesalers; Order-Routing,5
